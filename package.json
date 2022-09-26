@@ -14,5 +14,7 @@
     "signale": "^1.4.0",
     "validate-npm-package-name": "^4.0.0"
   },
-  "bin": "node src/index.js"
+  "bin": {
+    "create-fuse-plugin": "node src/index.js"
+  }
 }
