@@ -17,6 +17,12 @@
     "create-fuse-plugin": "src/index.js"
   },
   "dependencies": {
+    "chalk": "4",
+    "commander": "^9.4.0",
+    "fs-extra": "^10.1.0",
+    "prompts": "^2.4.2",
+    "signale": "^1.4.0",
+    "validate-npm-package-name": "^4.0.0",
     "ansi-styles": "^4.3.0",
     "color-convert": "^2.0.1",
     "builtins": "^5.0.1",
