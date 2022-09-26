@@ -15,6 +15,6 @@
     "validate-npm-package-name": "^4.0.0"
   },
   "bin": {
-    "create-fuse-plugin": "node src/index.js"
+    "create-fuse-plugin": "./src/index.js"
   }
 }
