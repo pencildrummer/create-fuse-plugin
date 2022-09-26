@@ -1,6 +1,6 @@
 {
   "name": "create-fuse-plugin",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Script to create FUSE plugins",
   "main": "src/index.js",
   "author": "Fabio Borella <4450251+pencildrummer@users.noreply.github.com>",
