@@ -1,4 +1,4 @@
-#! /usr/bin/env node
+#!/usr/bin/env node
 const { Signale } = require('signale');
 const chalk = require('chalk');
 const { program } = require('commander');
