@@ -102,6 +102,8 @@ __metadata:
     prompts: ^2.4.2
     signale: ^1.4.0
     validate-npm-package-name: ^4.0.0
+  bin:
+    create-fuse-plugin: ./src/index.js
   languageName: unknown
   linkType: soft
 

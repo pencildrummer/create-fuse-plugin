@@ -6,7 +6,7 @@
   "author": "Fabio Borella <4450251+pencildrummer@users.noreply.github.com>",
   "license": "MIT",
   "packageManager": "yarn@3.2.3",
-  "dependencies": {
+  "devDependencies": {
     "chalk": "4",
     "commander": "^9.4.0",
     "fs-extra": "^10.1.0",
@@ -14,7 +14,5 @@
     "signale": "^1.4.0",
     "validate-npm-package-name": "^4.0.0"
   },
-  "bin": {
-    "create-fuse-plugin": "./src/index.js"
-  }
+  "bin": "./src/index.js"
 }
