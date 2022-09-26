@@ -5,14 +5,6 @@
   "main": "src/index.js",
   "author": "Fabio Borella <4450251+pencildrummer@users.noreply.github.com>",
   "license": "MIT",
-  "devDependencies": {
-    "chalk": "4",
-    "commander": "^9.4.0",
-    "fs-extra": "^10.1.0",
-    "prompts": "^2.4.2",
-    "signale": "^1.4.0",
-    "validate-npm-package-name": "^4.0.0"
-  },
   "bin": {
     "create-fuse-plugin": "src/index.js"
   },
